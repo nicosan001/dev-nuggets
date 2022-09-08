@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/nicosan001/devnuggets.github.io.git
+[submodule "devnuggets.github.io"]
+	path = devnuggets.github.io
+	url = git@github.com:nicosan001/devnuggets.github.io.git
