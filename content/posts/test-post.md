@@ -8,3 +8,13 @@ date: 2022-09-07T21:47:16-06:00
 ## the secret cult of the ocean
 
 This is a story about two turtles.
+
+```java
+public class Main {
+
+  public static void main(String[] args) {
+  	System.out.println("Hello, World!");
+  }
+
+}
+```

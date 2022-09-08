@@ -1,4 +1,4 @@
-baseURL: http://devnuggets.github.io/
+baseURL: https://devnuggets.github.io/
 languageCode: en-us
 theme: "PaperMod"
 paginate: 5
@@ -77,23 +77,23 @@ params:
     - name: github
       url: "https://github.com/"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+  # google:
+  # SiteVerificationTag: "XYZabc"
+  # bing:
+  # SiteVerificationTag: "XYZabc"
+  # yandex:
+  # SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  # URL: "https://github.com/<path_to_repo>/content"
+  # Text: "Suggest Changes" # edit text
+  # appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -115,9 +115,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: dev-nuggets
+      name: devnuggets.github.io
+      url: https://devnuggets.github.io/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
