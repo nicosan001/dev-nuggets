@@ -1,4 +1,4 @@
-baseURL: https://nicosan001.github.io/devnuggets.github.io/
+baseURL: https://nicosan001.github.io/devnuggets.github.io
 languageCode: en-us
 theme: "PaperMod"
 paginate: 5
@@ -117,7 +117,7 @@ menu:
       weight: 20
     - identifier: dev-nuggets
       name: devnuggets.github.io
-      url: https://devnuggets.github.io/
+      url: https://nicosan001.github.io/devnuggets.github.io/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
